@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://easy-a.ficlab.jp
+Sitemap: https://easy-a.ficlab.jp/sitemap.xml
